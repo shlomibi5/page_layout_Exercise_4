@@ -1,0 +1,13 @@
+body {
+	margin: 0 auto;
+	direction: rtl;
+	width: 500px;
+}
+
+.nav {
+	float: right;
+	right: 10px;
+	width: 150px;
+	margin-left:18px;
+	background-color: #ccc;
+}
